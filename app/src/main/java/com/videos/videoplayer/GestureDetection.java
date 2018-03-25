@@ -4,10 +4,6 @@ import android.app.Activity;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 
-/**
- * Created by narendra on 11-Aug-17.
- */
-
 public class GestureDetection extends GestureDetector.SimpleOnGestureListener {
 
     public final static int SWIPE_UP = 1;
